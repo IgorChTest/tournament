@@ -5,3 +5,5 @@ public class NotRegisteredException extends RuntimeException {
         super("Игрок с именем" + name + "не найден");
     }
 }
+
+//public int amount
